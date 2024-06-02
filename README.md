@@ -8,7 +8,7 @@ Playwright: 1:44.1
 - [https://playwright.dev/docs/intro]
 
 ### How to Access Git Repository?
-Once you open repository, select master as base branch. Then you will see latest changes
+Once you open repository, switch to master from main branch. Then you will see latest changes
 
 To get started with the project, follow these steps:
 ```sh
