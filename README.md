@@ -1,6 +1,6 @@
 # Flight Network Playwright Assignment
 
-# Required dependencies to be used:
+## Required dependencies to be used:
 Node.js version: v20.9.0
 - [https://nodejs.org/dist/v20.14.0/node-v20.14.0-x64.msi]
 
